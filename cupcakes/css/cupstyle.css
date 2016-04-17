@@ -1,0 +1,27 @@
+.flashy {
+	width: 50%;
+	color: red;
+	font-style: italic;
+}
+
+.best {
+	color: blue;
+	font-weight: bold;
+}
+
+.warning {
+	width: 25%;
+	color: lightgreen;
+}
+
+.app {
+	width: 50%;
+	color: lightgreen;
+}
+
+.my-class {
+	border: 2px;
+	padding: 20px;
+	margin: 20px;
+	background-color: blue;
+}
