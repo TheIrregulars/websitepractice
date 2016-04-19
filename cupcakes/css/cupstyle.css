@@ -4,7 +4,13 @@
 	font-style: italic;
 }
 
-.best {
+.name h3 {
+	font-size: 18px;
+	font-weight: bold;
+	color: darkblue; 
+}
+
+.name p a {
 	color: blue;
 	font-weight: bold;
 }
@@ -24,4 +30,8 @@
 	padding: 20px;
 	margin: 20px;
 	background-color: blue;
+}
+
+body {
+	background-color: pink;
 }
